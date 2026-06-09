@@ -1,0 +1,5 @@
+# Install with: pip install -r requirements.txt
+duckdb>=1.1        # warehouse engine (required)
+anthropic>=0.40    # live LLM mode (optional; offline skills work without it)
+streamlit>=1.30    # web UI (optional)
+pytest>=8.0        # tests (dev)
