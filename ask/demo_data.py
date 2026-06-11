@@ -17,7 +17,7 @@ _GROUPS = ["Great Lakes Auto Group", "Sunbelt Motors", "Pacific Crest Dealers",
            "Heartland Automotive", "Independent"]
 _REGIONS = {"Midwest": ["MI", "OH", "IL"], "South": ["TX", "FL", "GA"],
             "West": ["CA", "WA", "AZ"], "Northeast": ["NY", "PA", "NJ"]}
-_CARRIERS = ["Carrier A (DCO)", "Carrier B (DCO)", "In-House Agency"]
+_CARRIERS = ["Carrier A", "Carrier B", "In-House Agency"]
 _BRANDS = ["Ford", "Chevrolet", "Toyota", "Honda", "Kia", "Subaru", "Jeep", "GMC"]
 _CITIES = ["Detroit", "Austin", "Sacramento", "Cleveland", "Tampa", "Denver",
            "Albany", "Charlotte", "Phoenix", "Seattle", "Dallas", "Atlanta"]
